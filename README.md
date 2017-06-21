@@ -4,7 +4,7 @@
 
 Submitted by: **Eyob Tefera**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/eyobtefera/SimpleTodo/blob/master/demo.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+I had to record my phone screen and not my computer screen but if you click on the link the video opens. 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
